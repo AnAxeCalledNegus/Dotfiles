@@ -4,6 +4,8 @@ Notice:
 
 Some images like the arch logo in fastfetch aren't in the Dotfiles*
 
+Swaync version needs to be 11.0*
+
 
 
 https://github.com/user-attachments/assets/18df8122-1c17-4ac8-9fd6-a2c75a6a5f9a
