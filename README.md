@@ -19,5 +19,6 @@ https://github.com/user-attachments/assets/18df8122-1c17-4ac8-9fd6-a2c75a6a5f9a
 
 
 
-<img width="542" height="863" alt="20250716_02h20m55s_grim" src="https://github.com/user-attachments/assets/ed6a2d57-3a16-4328-9447-45842d1be2ad" />
+<img width="550" height="873" alt="20250717_17h01m02s_grim" src="https://github.com/user-attachments/assets/6b730be7-6964-4197-86e9-f8b06f400a51" />
+
 
